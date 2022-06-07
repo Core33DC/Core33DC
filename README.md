@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### Core33DC  👋
+### Core33DC  github👋
 
 <!--
 **Core33DC/Core33DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
