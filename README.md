@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align='center'>
+  <a href="https://github.com/Core33DC">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+  </a>
+</p>
+
+### Core33DC  👋
 
 <!--
 **Core33DC/Core33DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
